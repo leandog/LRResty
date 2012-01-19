@@ -7,12 +7,12 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		0FB9786D13A20F050010A37C /* LRRestyClient+DELETE.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB9786B13A20F050010A37C /* LRRestyClient+DELETE.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		0FB9786D13A20F050010A37C /* LRRestyClient+DELETE.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB9786B13A20F050010A37C /* LRRestyClient+DELETE.h */; settings = {ATTRIBUTES = (); }; };
 		0FB9786E13A20F050010A37C /* LRRestyClient+DELETE.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB9786C13A20F050010A37C /* LRRestyClient+DELETE.m */; };
 		0FB9787013A20F190010A37C /* LRRestyClient+DELETE.h in Headers */ = {isa = PBXBuildFile; fileRef = 0FB9786B13A20F050010A37C /* LRRestyClient+DELETE.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		0FB9787113A20F1C0010A37C /* LRRestyClient+DELETE.m in Sources */ = {isa = PBXBuildFile; fileRef = 0FB9786C13A20F050010A37C /* LRRestyClient+DELETE.m */; };
 		A308758E1209E37B003859AC /* FormEncodedStringTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A308758D1209E37B003859AC /* FormEncodedStringTest.m */; };
-		A30878A5120C44FF003859AC /* RemoteRepositoryExample.h in Headers */ = {isa = PBXBuildFile; fileRef = A30878A3120C44FF003859AC /* RemoteRepositoryExample.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		A30878A5120C44FF003859AC /* RemoteRepositoryExample.h in Headers */ = {isa = PBXBuildFile; fileRef = A30878A3120C44FF003859AC /* RemoteRepositoryExample.h */; settings = {ATTRIBUTES = (); }; };
 		A311467713A2685900F09315 /* DeleteResourceTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A311467613A2685900F09315 /* DeleteResourceTests.m */; };
 		A322549F13B6C93900F16A97 /* LRRestyResponse+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A322549E13B6C93900F16A97 /* LRRestyResponse+Internal.h */; settings = {ATTRIBUTES = (); }; };
 		A32254A113B6C9FA00F16A97 /* LRRestyResponse+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A322549E13B6C93900F16A97 /* LRRestyResponse+Internal.h */; };
@@ -32,12 +32,12 @@
 		A3236DDC120C5C2C00001E40 /* CSerializedJSONData.m in Sources */ = {isa = PBXBuildFile; fileRef = A30879CB120C4EA2003859AC /* CSerializedJSONData.m */; };
 		A3236DDF120C5C3400001E40 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = A30878B9120C4776003859AC /* main.m */; };
 		A3236DF9120C5C8100001E40 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = A308795A120C48BC003859AC /* MainWindow.xib */; };
-		A33E504F12E89EB900746A2C /* NSRunLoop+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = A33E504D12E89EB900746A2C /* NSRunLoop+Additions.h */; };
+		A33E504F12E89EB900746A2C /* NSRunLoop+Additions.h in Headers */ = {isa = PBXBuildFile; fileRef = A33E504D12E89EB900746A2C /* NSRunLoop+Additions.h */; settings = {ATTRIBUTES = (); }; };
 		A33E505012E89EB900746A2C /* NSRunLoop+Additions.m in Sources */ = {isa = PBXBuildFile; fileRef = A33E504E12E89EB900746A2C /* NSRunLoop+Additions.m */; };
-		A33E50C512E8AC6F00746A2C /* LRSynchronousProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = A33E50C312E8AC6F00746A2C /* LRSynchronousProxy.h */; };
+		A33E50C512E8AC6F00746A2C /* LRSynchronousProxy.h in Headers */ = {isa = PBXBuildFile; fileRef = A33E50C312E8AC6F00746A2C /* LRSynchronousProxy.h */; settings = {ATTRIBUTES = (); }; };
 		A33E50C612E8AC6F00746A2C /* LRSynchronousProxy.m in Sources */ = {isa = PBXBuildFile; fileRef = A33E50C412E8AC6F00746A2C /* LRSynchronousProxy.m */; };
 		A34E8A6C13C47B2D006D5B76 /* RetryTests.m in Sources */ = {isa = PBXBuildFile; fileRef = A34E8A6B13C47B2D006D5B76 /* RetryTests.m */; };
-		A34E8A7313C5E58B006D5B76 /* LRRestyRequest+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A34E8A6D13C48981006D5B76 /* LRRestyRequest+Internal.h */; };
+		A34E8A7313C5E58B006D5B76 /* LRRestyRequest+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A34E8A6D13C48981006D5B76 /* LRRestyRequest+Internal.h */; settings = {ATTRIBUTES = (); }; };
 		A34E8A7413C5E58C006D5B76 /* LRRestyRequest+Internal.h in Headers */ = {isa = PBXBuildFile; fileRef = A34E8A6D13C48981006D5B76 /* LRRestyRequest+Internal.h */; };
 		A35D874F125A8D7300E5A8BD /* LRRestyHTTPClient.m in Sources */ = {isa = PBXBuildFile; fileRef = A30A03AD1253851A00722B25 /* LRRestyHTTPClient.m */; };
 		A35D8750125A8D7A00E5A8BD /* LRURLRequestOperation.m in Sources */ = {isa = PBXBuildFile; fileRef = A3FFFE5C125A5D380075D21F /* LRURLRequestOperation.m */; };
@@ -117,44 +117,44 @@
 		A379180D13A144030025AF1C /* LRRestyClient+POST.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E003125381700006572D /* LRRestyClient+POST.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A379180E13A144030025AF1C /* LRRestyClient+PUT.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E005125381700006572D /* LRRestyClient+PUT.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		A379180F13A144030025AF1C /* LRResty.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFFD125381700006572D /* LRResty.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		A389DFB3125380080006572D /* NSData+Base64.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFA9125380080006572D /* NSData+Base64.h */; };
+		A389DFB3125380080006572D /* NSData+Base64.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFA9125380080006572D /* NSData+Base64.h */; settings = {ATTRIBUTES = (); }; };
 		A389DFB4125380080006572D /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFAA125380080006572D /* NSData+Base64.m */; };
-		A389DFB5125380080006572D /* NSDictionary+QueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAB125380080006572D /* NSDictionary+QueryString.h */; };
+		A389DFB5125380080006572D /* NSDictionary+QueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAB125380080006572D /* NSDictionary+QueryString.h */; settings = {ATTRIBUTES = (); }; };
 		A389DFB6125380080006572D /* NSDictionary+QueryString.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFAC125380080006572D /* NSDictionary+QueryString.m */; };
-		A389DFB7125380080006572D /* NSObject+Tap.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAD125380080006572D /* NSObject+Tap.h */; };
+		A389DFB7125380080006572D /* NSObject+Tap.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAD125380080006572D /* NSObject+Tap.h */; settings = {ATTRIBUTES = (); }; };
 		A389DFB8125380080006572D /* NSObject+Tap.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFAE125380080006572D /* NSObject+Tap.m */; };
-		A389DFB9125380080006572D /* NSString+QueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAF125380080006572D /* NSString+QueryString.h */; };
+		A389DFB9125380080006572D /* NSString+QueryString.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFAF125380080006572D /* NSString+QueryString.h */; settings = {ATTRIBUTES = (); }; };
 		A389DFBA125380080006572D /* NSString+QueryString.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFB0125380080006572D /* NSString+QueryString.m */; };
-		A389DFBB125380080006572D /* NSURL+QueryInspector.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFB1125380080006572D /* NSURL+QueryInspector.h */; };
+		A389DFBB125380080006572D /* NSURL+QueryInspector.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFB1125380080006572D /* NSURL+QueryInspector.h */; settings = {ATTRIBUTES = (); }; };
 		A389DFBC125380080006572D /* NSURL+QueryInspector.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFB2125380080006572D /* NSURL+QueryInspector.m */; };
 		A389DFD21253803C0006572D /* GithubCredentials.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFD01253803C0006572D /* GithubCredentials.h */; };
 		A389DFD31253803C0006572D /* TwitterCredentials.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFD11253803C0006572D /* TwitterCredentials.h */; };
-		A389E017125381700006572D /* LRResty.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFFD125381700006572D /* LRResty.h */; };
+		A389E017125381700006572D /* LRResty.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFFD125381700006572D /* LRResty.h */; settings = {ATTRIBUTES = (); }; };
 		A389E018125381700006572D /* LRResty.m in Sources */ = {isa = PBXBuildFile; fileRef = A389DFFE125381700006572D /* LRResty.m */; };
-		A389E019125381700006572D /* LRRestyClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFFF125381700006572D /* LRRestyClient.h */; };
+		A389E019125381700006572D /* LRRestyClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A389DFFF125381700006572D /* LRRestyClient.h */; settings = {ATTRIBUTES = (); }; };
 		A389E01A125381700006572D /* LRRestyClient.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E000125381700006572D /* LRRestyClient.m */; };
-		A389E01B125381700006572D /* LRRestyClient+GET.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E001125381700006572D /* LRRestyClient+GET.h */; };
+		A389E01B125381700006572D /* LRRestyClient+GET.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E001125381700006572D /* LRRestyClient+GET.h */; settings = {ATTRIBUTES = (); }; };
 		A389E01C125381700006572D /* LRRestyClient+GET.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E002125381700006572D /* LRRestyClient+GET.m */; };
-		A389E01D125381700006572D /* LRRestyClient+POST.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E003125381700006572D /* LRRestyClient+POST.h */; };
+		A389E01D125381700006572D /* LRRestyClient+POST.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E003125381700006572D /* LRRestyClient+POST.h */; settings = {ATTRIBUTES = (); }; };
 		A389E01E125381700006572D /* LRRestyClient+POST.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E004125381700006572D /* LRRestyClient+POST.m */; };
-		A389E01F125381700006572D /* LRRestyClient+PUT.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E005125381700006572D /* LRRestyClient+PUT.h */; };
+		A389E01F125381700006572D /* LRRestyClient+PUT.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E005125381700006572D /* LRRestyClient+PUT.h */; settings = {ATTRIBUTES = (); }; };
 		A389E020125381700006572D /* LRRestyClient+PUT.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E006125381700006572D /* LRRestyClient+PUT.m */; };
-		A389E021125381700006572D /* LRRestyClientBlockDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E007125381700006572D /* LRRestyClientBlockDelegate.h */; };
+		A389E021125381700006572D /* LRRestyClientBlockDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E007125381700006572D /* LRRestyClientBlockDelegate.h */; settings = {ATTRIBUTES = (); }; };
 		A389E022125381700006572D /* LRRestyClientBlockDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E008125381700006572D /* LRRestyClientBlockDelegate.m */; };
-		A389E023125381700006572D /* LRRestyClientDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E009125381700006572D /* LRRestyClientDelegate.h */; };
-		A389E024125381700006572D /* LRRestyClientResponseDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00A125381700006572D /* LRRestyClientResponseDelegate.h */; };
-		A389E025125381700006572D /* LRRestyClientStreamingDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00B125381700006572D /* LRRestyClientStreamingDelegate.h */; };
+		A389E023125381700006572D /* LRRestyClientDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E009125381700006572D /* LRRestyClientDelegate.h */; settings = {ATTRIBUTES = (); }; };
+		A389E024125381700006572D /* LRRestyClientResponseDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00A125381700006572D /* LRRestyClientResponseDelegate.h */; settings = {ATTRIBUTES = (); }; };
+		A389E025125381700006572D /* LRRestyClientStreamingDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00B125381700006572D /* LRRestyClientStreamingDelegate.h */; settings = {ATTRIBUTES = (); }; };
 		A389E026125381700006572D /* LRRestyClientStreamingDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E00C125381700006572D /* LRRestyClientStreamingDelegate.m */; };
-		A389E027125381700006572D /* LRRestyRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00D125381700006572D /* LRRestyRequest.h */; };
+		A389E027125381700006572D /* LRRestyRequest.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00D125381700006572D /* LRRestyRequest.h */; settings = {ATTRIBUTES = (); }; };
 		A389E028125381700006572D /* LRRestyRequest.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E00E125381700006572D /* LRRestyRequest.m */; };
-		A389E029125381700006572D /* LRRestyRequestPayload.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00F125381700006572D /* LRRestyRequestPayload.h */; };
+		A389E029125381700006572D /* LRRestyRequestPayload.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E00F125381700006572D /* LRRestyRequestPayload.h */; settings = {ATTRIBUTES = (); }; };
 		A389E02A125381700006572D /* LRRestyRequestPayload.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E010125381700006572D /* LRRestyRequestPayload.m */; };
-		A389E02B125381700006572D /* LRRestyResource.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E011125381700006572D /* LRRestyResource.h */; };
+		A389E02B125381700006572D /* LRRestyResource.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E011125381700006572D /* LRRestyResource.h */; settings = {ATTRIBUTES = (); }; };
 		A389E02C125381700006572D /* LRRestyResource.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E012125381700006572D /* LRRestyResource.m */; };
-		A389E02D125381700006572D /* LRRestyResourceDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E013125381700006572D /* LRRestyResourceDelegate.h */; };
-		A389E02E125381700006572D /* LRRestyResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E014125381700006572D /* LRRestyResponse.h */; };
+		A389E02D125381700006572D /* LRRestyResourceDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E013125381700006572D /* LRRestyResourceDelegate.h */; settings = {ATTRIBUTES = (); }; };
+		A389E02E125381700006572D /* LRRestyResponse.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E014125381700006572D /* LRRestyResponse.h */; settings = {ATTRIBUTES = (); }; };
 		A389E02F125381700006572D /* LRRestyResponse.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E015125381700006572D /* LRRestyResponse.m */; };
-		A389E030125381700006572D /* LRRestyTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E016125381700006572D /* LRRestyTypes.h */; };
+		A389E030125381700006572D /* LRRestyTypes.h in Headers */ = {isa = PBXBuildFile; fileRef = A389E016125381700006572D /* LRRestyTypes.h */; settings = {ATTRIBUTES = (); }; };
 		A389E06E125383220006572D /* HCBlockMatcher.m in Sources */ = {isa = PBXBuildFile; fileRef = A389E06D125383220006572D /* HCBlockMatcher.m */; };
 		A38AF6681229FCA10001D038 /* LRRestyResourceTest.m in Sources */ = {isa = PBXBuildFile; fileRef = A38AF6671229FCA10001D038 /* LRRestyResourceTest.m */; };
 		A3ACE1B213A12DB200E18687 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = A3ACE1B013A12DB200E18687 /* InfoPlist.strings */; };
@@ -231,6 +231,9 @@
 		A3F81B6A12085B0B00E60B0B /* DomainMatchers.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F81B6912085B0B00E60B0B /* DomainMatchers.m */; };
 		A3F81DC0120892EF00E60B0B /* TestHelper.m in Sources */ = {isa = PBXBuildFile; fileRef = A3F81DBE120892DA00E60B0B /* TestHelper.m */; };
 		AACBBE4A0F95108600F1A2B1 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = AACBBE490F95108600F1A2B1 /* Foundation.framework */; };
+		D8DF55E514A15F99008D54BC /* LRRestyHTTPClient.h in Headers */ = {isa = PBXBuildFile; fileRef = A30A03AC1253851A00722B25 /* LRRestyHTTPClient.h */; settings = {ATTRIBUTES = (); }; };
+		D8DF55E614A15FAC008D54BC /* LRRestyRequestDelegate.h in Headers */ = {isa = PBXBuildFile; fileRef = A30A040E125394A700722B25 /* LRRestyRequestDelegate.h */; settings = {ATTRIBUTES = (); }; };
+		D8DF55E714A15FBE008D54BC /* LRURLRequestOperation.h in Headers */ = {isa = PBXBuildFile; fileRef = A3FFFE5B125A5D380075D21F /* LRURLRequestOperation.h */; settings = {ATTRIBUTES = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -1031,14 +1034,13 @@
 			isa = PBXHeadersBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A389DFD21253803C0006572D /* GithubCredentials.h in Headers */,
 				A30878A5120C44FF003859AC /* RemoteRepositoryExample.h in Headers */,
 				A389DFB3125380080006572D /* NSData+Base64.h in Headers */,
 				A389DFB5125380080006572D /* NSDictionary+QueryString.h in Headers */,
 				A389DFB7125380080006572D /* NSObject+Tap.h in Headers */,
 				A389DFB9125380080006572D /* NSString+QueryString.h in Headers */,
 				A389DFBB125380080006572D /* NSURL+QueryInspector.h in Headers */,
-				A389DFD21253803C0006572D /* GithubCredentials.h in Headers */,
-				A389DFD31253803C0006572D /* TwitterCredentials.h in Headers */,
 				A389E017125381700006572D /* LRResty.h in Headers */,
 				A389E019125381700006572D /* LRRestyClient.h in Headers */,
 				A389E01B125381700006572D /* LRRestyClient+GET.h in Headers */,
@@ -1056,9 +1058,13 @@
 				A389E030125381700006572D /* LRRestyTypes.h in Headers */,
 				A33E504F12E89EB900746A2C /* NSRunLoop+Additions.h in Headers */,
 				A33E50C512E8AC6F00746A2C /* LRSynchronousProxy.h in Headers */,
-				0FB9786D13A20F050010A37C /* LRRestyClient+DELETE.h in Headers */,
 				A322549F13B6C93900F16A97 /* LRRestyResponse+Internal.h in Headers */,
 				A34E8A7313C5E58B006D5B76 /* LRRestyRequest+Internal.h in Headers */,
+				D8DF55E514A15F99008D54BC /* LRRestyHTTPClient.h in Headers */,
+				D8DF55E614A15FAC008D54BC /* LRRestyRequestDelegate.h in Headers */,
+				D8DF55E714A15FBE008D54BC /* LRURLRequestOperation.h in Headers */,
+				0FB9786D13A20F050010A37C /* LRRestyClient+DELETE.h in Headers */,
+				A389DFD31253803C0006572D /* TwitterCredentials.h in Headers */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -1456,8 +1462,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = LRResty;
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
@@ -1475,8 +1483,10 @@
 				IPHONEOS_DEPLOYMENT_TARGET = 4.0;
 				MACOSX_DEPLOYMENT_TARGET = 10.6;
 				PRODUCT_NAME = LRResty;
+				PUBLIC_HEADERS_FOLDER_PATH = "$(TARGET_NAME)";
 				RUN_CLANG_STATIC_ANALYZER = YES;
 				SDKROOT = iphoneos;
+				SKIP_INSTALL = YES;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
@@ -1492,7 +1502,10 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
@@ -1508,7 +1521,10 @@
 				GCC_WARN_ABOUT_MISSING_PROTOTYPES = NO;
 				GCC_WARN_ABOUT_RETURN_TYPE = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
-				OTHER_LDFLAGS = "-ObjC";
+				OTHER_LDFLAGS = (
+					"-all_load",
+					"-ObjC",
+				);
 				PROVISIONING_PROFILE = "";
 				SDKROOT = iphoneos;
 			};
